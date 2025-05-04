@@ -1,0 +1,7 @@
+.venv/
+.west/
+build/
+modules/
+zephyr/
+zmk/
+zmk-component-raytac-dongle/

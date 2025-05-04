@@ -1,3 +1,4 @@
 grpcio-tools
 protobuf
+pyelftools
 west
